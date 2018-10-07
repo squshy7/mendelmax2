@@ -128,10 +128,10 @@
 #define HEATER_BED_PIN      3
 
 #ifndef FAN_PIN
-  #define FAN_PIN           8
+  #define FAN_PIN           2
 #endif
 #define FAN1_PIN            6
-#define FAN2_PIN            2
+#define FAN2_PIN            8
 
 //
 // Misc. Functions
