@@ -1,3 +1,6 @@
+# Please note that this is NOT an official release of marlin for the mendelmax 2. This is my attempt to get the thing running after finding no official releases anywhere, anymore. As of October 2018 my MM2 is completely stock, so this firmware will work "out of the box". I will attempt to document any hardware changes I made to the MM2 that would require a Marlin configuration that would no longer be considered "stock" to the MM2. I will also attempt to highlight any such configuration changes that would not be considered "backwards compatible" with the stock MM2. Please look through commits to see these highlights.
+
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
